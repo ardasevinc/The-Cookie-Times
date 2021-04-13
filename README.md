@@ -11,4 +11,4 @@ Although I have used some viewport units, they only guarantee that it will work
 fine on most desktop screens.
 
 ### Loicense 
-All yours
+What is mine, is yours.
